@@ -1,3 +1,9 @@
+/* 
+   Title: Sum of First 50 Natural Numbers
+   Name: Muhammad Harmain
+   Reg No: L1S26BSCS0079
+   Assignment: Assignment 1
+*/
 #include <iostream>
 using namespace std;
 
