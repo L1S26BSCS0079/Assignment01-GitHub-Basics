@@ -7,11 +7,15 @@
 #include <iostream>
 using namespace std;
 
-int main() {
+int main()  
+{
     int sum = 0;
     for (int i = 1; i <= 50; i++) {
         sum += i;
     }
     cout << "Sum of first 50 natural numbers (loop): " << sum << endl;
+   int n = 50;
+    int formula_sum = (n * (n + 1)) / 2;
+    cout << "Sum using formula n(n+1)/2: " << formula_sum << endl;
     return 0;
 }
